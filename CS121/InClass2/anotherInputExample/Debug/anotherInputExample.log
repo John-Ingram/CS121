@@ -1,0 +1,10 @@
+﻿  CS121_Template.cpp
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(20,7): warning C4101:  'inspector': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(16,15): warning C4101:  'year': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(18,15): warning C4101:  'factory_loc': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(19,7): warning C4101:  'quality_flag': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(17,7): warning C4101:  'prod_id': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(21,7): warning C4101:  'packaage_type': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(16,28): warning C4101:  'day': unreferenced local variable
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\CS121_Template.cpp(16,21): warning C4101:  'month': unreferenced local variable
+  anotherInputExample.vcxproj -> C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\InClass2\anotherInputExample\Debug\anotherInputExample.exe

@@ -1,0 +1,4 @@
+﻿  CS121_Template.cpp
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\Homework3\Program3\CS121_Template.cpp(19,20): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\Homework3\Program3\CS121_Template.cpp(21,66): warning C4244:  '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Program3.vcxproj -> C:\Users\j123j\Documents\GitHub\Sem1FreshmanYear\CS121\Homework3\Program3\Debug\Program3.exe
